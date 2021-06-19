@@ -1,0 +1,38 @@
+{
+  "name": "Gigingsul",
+  "short_name": "Gigingsul",
+  "start_url": "https://www.gigingsul.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Berbagi Info, Berita, Serta Tips, Trik, dan Tutorial.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-4lsTy6IEkUA/YM2hP6wD6eI/AAAAAAAAAgA/1QMrdoHuVnUPtLLuZAOU2suBlgHs8gz1wCNcBGAsYHQ/s48/iconfavicongigingsul_48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ep_c4d4iZkk/YM2hRlXcrfI/AAAAAAAAAgE/aRm3-W-oN2QiA6_z_S3LJw51zGfnN1OjACNcBGAsYHQ/s72/iconfavicongigingsul_72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DxKkP0fBBWA/YM2hSODYQFI/AAAAAAAAAgM/-MF1z0WtoqssgCBzAg5jR65ZCBkIUPuNwCNcBGAsYHQ/s96/iconfavicongigingsul_96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Di88qbyMRUA/YM2hO7Kvf2I/AAAAAAAAAf0/xdaSJVIr0GUWUgoM3DqBvZ9BH6MoaxjjwCNcBGAsYHQ/s144/iconfavicongigingsul_144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iKI4NWav_bg/YM2hPHJnQFI/AAAAAAAAAf4/2g5ylh4cpm4zGM-L5lkPwoos0V49PkLTwCNcBGAsYHQ/s168/iconfavicongigingsul_168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-By4kyE95OGM/YM2hPU_vWRI/AAAAAAAAAf8/1qMd5fjuyAwrMhZnVTEnOQJimdOj5jhbgCNcBGAsYHQ/s192/iconfavicongigingsul_192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RjYty2v9h2E/YM2hRpMFRfI/AAAAAAAAAgI/pNPEwml884Ij7N2990hzGjbsewQqBfURACNcBGAsYHQ/s512/iconfavicongigingsul_512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
